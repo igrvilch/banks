@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tvoibanki:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="tvoibanki.war">
+      <element id="artifact" artifact-name="tvoibanki:war exploded" />
+    </root>
+  </artifact>
+</component>
